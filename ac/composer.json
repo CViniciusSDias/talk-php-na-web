@@ -1,6 +1,7 @@
 {
     "require": {
         "php": "^8.3",
-        "clue/framework-x": "^0.16"
+        "clue/framework-x": "^0.16",
+        "clue/reactphp-sqlite": "^1.6"
     }
 }
