@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": "^8.1",
-        "clue/framework-x": "dev-main"
+        "php": "^8.3",
+        "clue/framework-x": "^0.16"
     }
 }
